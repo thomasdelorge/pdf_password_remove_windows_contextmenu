@@ -12,8 +12,10 @@ Supprimer rapidement les mots de passe protégeants des PDF via le menu contextu
 2) Executer le fichier : 
 - Au premier lancement: powershell vous demande des droits administrateur pour ajouter le script au menu contextuel des fichiers PDF
 - Si executé simplement : vous demande de saisir le chemin du fichier PDF a deverrouiller.
+
 ![alt text](https://github.com/thomasdelorge/pdf_password_remove_windows_contextmenu/blob/main/jpg/mot%20de%20passe.jpg?raw=true "screenshot")
 - Si executé depuis le menu contextuel ou via un drag&drop d'un fichier pdf sur le .py : vous demande de saisir le mot de passe du fichier pdf
+
 ![alt text](https://github.com/thomasdelorge/pdf_password_remove_windows_contextmenu/blob/main/jpg/chemin.jpg?raw=true "screenshot")
 
 3) Le fichier pdf deverrouillé est disponible au même emplacement que le fichier pdf verrouillé, préfixé de "_unprotected"
