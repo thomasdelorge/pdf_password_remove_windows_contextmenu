@@ -17,3 +17,5 @@ Supprimer rapidement les mots de passe protégeants des PDF via le menu contextu
 ![alt text](https://github.com/thomasdelorge/pdf_password_remove_windows_contextmenu/blob/main/jpg/chemin.jpg?raw=true "screenshot")
 
 3) Le fichier pdf deverrouillé est disponible au même emplacement que le fichier pdf verrouillé, préfixé de "_unprotected"
+
+Vous pouvez par la suite supprimer le fichier .py téléchargé : celui-ci se copie dans votre répertoire utilisateur (%userprofile%) pour l'utilisation via le menu contextuel de Windows
